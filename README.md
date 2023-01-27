@@ -39,6 +39,25 @@ The males bikers used the bikes more than the female riders.
 Also, the male subscribers were higher than the female subscribers in this visual and data.
 
 ## Summary
+We answered a couple of essential questions regarding the data using Tableau.  What was the number of trips for the month of August? What role did annual subscribers and short-term customers play in the Citi bike share?  This will help us determine the types of customers we could expect from a bike-sharing company in Des Moines. Specifically, you want to determine how the proportion of short-term customers to annual subscribers has changed.  Also, what are the peak hours for bike rentals?  What was the Gender role in using the Citi bikes, and how did it impact the use and sales? 
 
+     1.	We concluded that August was very successful because it’s a warm month, and many people like to ride bikes. 
+     2.	Male subscribers were the highest users and followed traditional high-use travel times to and from work.  
+     3.	Investors should aim toward male customers to become subscribers since they were higher in the gender category of riders.
+     4.	August Peak hours were between 5:00 pm and 7:00 pm.  That’s usually when people come out of work.
+     5.	Bike repairs should be done between the hours of 2:00 am and 5:00 am
+To help investors in Des Moines have a better picture of the Citi bike business in NYC, I collected data from February 2021.  I wanted to show them the data for different months and seasons.
 
+![Screenshot 2023-01-27 165042](https://user-images.githubusercontent.com/114379268/215208119-c8d4fc9a-12a4-46d6-9e5e-bbf187bde2f8.png)
 
+The image above shows the total number of trips that were reported in Feb of 2021.  And we can conclude, that it is much lower than what we saw in August, but still a high number for the month of February.
+
+![Screenshot 2023-01-27 141009](https://user-images.githubusercontent.com/114379268/215209414-da81f39e-e898-423b-a9e7-d6dd60995d2a.png)
+
+The numbers and totals of the subscribers and customers were also lower, but were still a good considerable number.
+
+![Screenshot 2023-01-27 141428](https://user-images.githubusercontent.com/114379268/215209743-4ca28107-6624-49b2-81bb-26756269961b.png)
+
+And in the graph above, it looks very similar to the graph of August.  Peak hours were around 4:00 pm. So, we can conclude that no matter what the season is or what month, the peak month will always be the same for the use of the bikes and thats around the evening when people leave work.
+
+I would have liked it if the data included weekend information so we could have a better picture for the investors. I also looked up the population of Des Moines, roughly 214,000.  So, compared with the numbers of NYC, even if they didn’t have many stations, they would have a higher chance of succeeding.
