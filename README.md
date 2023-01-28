@@ -61,3 +61,7 @@ The numbers and totals of the subscribers and customers were also lower, but wer
 And in the graph above, it looks very similar to the graph of August.  Peak hours were around 4:00 pm. So, we can conclude that no matter what the season is or what month, the peak month will always be the same for the use of the bikes and thats around the evening when people leave work.
 
 I would have liked it if the data included weekend information so we could have a better picture for the investors. I also looked up the population of Des Moines, roughly 214,000.  So, compared with the numbers of NYC, even if they didn’t have many stations, they would have a higher chance of succeeding.
+
+## Link to Tableau Story
+
+[link to dashboard](https://public.tableau.com/app/profile/samira.hassan2901/viz/NYC-Citibike-challenge/NYCCitibike?publish=yes)
